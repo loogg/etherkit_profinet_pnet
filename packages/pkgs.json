@@ -1,0 +1,12 @@
+[
+ {
+  "path": "/packages/iot/agile_modbus", 
+  "ver": "v1.1.2", 
+  "name": "AGILE_MODBUS"
+ }, 
+ {
+  "path": "/packages/iot/p-net-rtt", 
+  "ver": "latest", 
+  "name": "PNET"
+ }
+]
